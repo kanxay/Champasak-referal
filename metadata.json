@@ -1,0 +1,6 @@
+{
+  "name": "ລະບົບນຳສົ່ງຄົນເຈັບ ໂຮງໝໍແຂວງຈຳປາສັກ (Champasak Hospital Referral System)",
+  "description": "ລະບົບຟອມນຳສົ່ງຄົນເຈັບ ແລະ ແດຊບອດຕິດຕາມສະຖານະການສົ່ງຕົວ ສູ່ໂຮງໝໍແຂວງຈຳປາສັກ ພ້ອມຮອງຮັບ Turso Database ແລະ Vercel",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
